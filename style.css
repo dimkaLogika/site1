@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border:4px solid navy;
+    border-radius:10px;
+    color:navy;
+    padding:5px;
+
+}
+
+header a{
+    background-color: navy;
+    text-decoration: none;
+    border:1xp solid navy;
+    border-radius:10px;
+    color:white;
+    padding: 5px;
+}
+nav{
+    border:4px solid  lightskyblue;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius:10px;
+    
+}
+nav a{
+    text-decoration: none;
+    padding:30px;
+    margin-top: 10px; 
+    color: navy;
+    font-family:sans-serif;
+
+}
+h2{
+    color:darkblue;
+}
+.dimalol{
+    border:3px solid darkblue;
+    padding:5px;
+    border-radius:10px;
+}
+.tov{
+    background-color: lightblue;
+    border:4px navy;
+    border-radius:10px;
+    padding:10px;
+}
+.zagolovok{
+    color:rgba(158, 2, 158, 0.991);
+    background-color: lightblue;
+    border:1px solid lightblue;
+    border-radius:10px;
+    font-size:30px;
+    text-align: center;
+}
+.dimalolkek{
+    border: solid darkblue;
+    padding:5px;
+    border-radius:10px;
+}
+footer{
+    background-color:lightblue;
+    border:4px solid navy;
+    border-radius:10px;
+    padding:10px;
+}
+    footer p{
+        background-color: white;
+    }
